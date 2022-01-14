@@ -78,7 +78,7 @@ function screen_splash() {
   text('Brainiac', width / 2, 100);
   textSize(30);
   fill('#D62828');
-  text('A game by Prakriti Jain', width / 2, 175);
+  text('A game by Neeraj Gupta', width / 2, 175);
   rect(200, 250, 200, 100);
   textSize(50);
   fill('#FCBF49')
